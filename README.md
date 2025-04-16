@@ -29,7 +29,7 @@
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](http://linkedin.com/in/ngum-kelly-bright-66b26a323))  
+- [LinkedIn](http://linkedin.com/in/ngum-kelly-bright-66b26a323) 
 - [Email](mailto:ngumkellyshu@gmail.com)
   
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
