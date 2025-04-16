@@ -1,4 +1,4 @@
-## Hi there,
+## Hi there,  :smile: </div>
 ### I am Ngum Kelly-Bright.  A Cloud/DevOps Engineer.  Welcome to my GitHub 
 
 
