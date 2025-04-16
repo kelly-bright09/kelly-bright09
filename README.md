@@ -1,7 +1,3 @@
-<div align="center">
-    <img width="100%" height="250px" src="https://wac-cdn.atlassian.com/dam/jcr:ef9fe684-c6dc-4ba0-a636-4ef7bcfa11f1/New%20DevOps%20Loop%20image.png?cdnVersion=1768" alt="cover" />
-</div>
-
 ## Hi there,
 ### I am Ngum Kelly-Bright.  A Cloud/DevOps Engineer.  Welcome to my GitHub 
 
